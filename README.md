@@ -14,6 +14,7 @@ This is a movie watchlist application built using React.js and TMDb API. The app
 * API: TMDb (The Movie Database) API for fetching movie details.
 * Styling: Tailwind CSS for responsive design.
 * Version Control: Git and GitHub for project management and versioning.
+* Docker: For containerizing the application for easy deployment.
 
 # How to Run the Project
 
