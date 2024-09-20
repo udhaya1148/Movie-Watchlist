@@ -18,7 +18,7 @@ This is a movie watchlist application built using React.js and TMDb API. The app
 # How to Run the Project
  1) Clone the repository:
     ```
-    https://github.com/udhaya1148/Movie-Watchlist.git
+    git clone https://github.com/udhaya1148/Movie-Watchlist.git
     ```
  3) Install dependencies: Navigate into the project folder and install the required packages:
     ```
