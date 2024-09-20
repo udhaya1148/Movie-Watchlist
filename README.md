@@ -16,4 +16,4 @@ This is a movie watchlist application built using React.js and TMDb API. The app
 * Version Control: Git and GitHub for project management and versioning.
 
 # How to Run the Project
-  Clone the repository:
+ 1) Clone the repository:
