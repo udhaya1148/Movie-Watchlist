@@ -7,3 +7,13 @@ This is a movie watchlist application built using React.js and TMDb API. The app
 * Watchlist Management: Users can add or remove movies from their watchlist.
 * Persistent Watchlist: The watchlist is managed using React state. User can save  the watchlist in local storage .
 * Dynamic Movie Information: For each movie, the app shows key information such as title, rating, popularity, and genres.
+
+# Technologies Used
+* Frontend: React.js with functional components and hooks (useState)
+* Routing: React Router for navigating between the movie list and the watchlist.
+* API: TMDb (The Movie Database) API for fetching movie details.
+* Styling: Tailwind CSS for responsive design.
+* Version Control: Git and GitHub for project management and versioning.
+
+# How to Run the Project
+  Clone the repository:
