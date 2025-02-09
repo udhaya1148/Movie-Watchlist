@@ -32,3 +32,8 @@ This is a movie watchlist application built using React.js and TMDb API. The app
     ```
     npm run preview
     ```
+
+# Link to view project
+```
+https://movie-watchlist-uk.web.app/
+```
